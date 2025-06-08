@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Registros de Pacientes com Câncer na China
 </h1>
 
-<h1 align="center" style="font-weight: bold;">Alura Store💻</h1>
+<h1 align="center" style="font-weight: bold;">Câncer na China</h1>
 
 <p align="center">
  <a href="https://www.python.org/">Python</a> • 
